@@ -1,16 +1,20 @@
 {
   "assetsByChunkName": {
     "component---src-pages-pr-mage-js": [
-      "component---src-pages-pr-mage-js-999de7dfea745cb63fe7.js",
-      "component---src-pages-pr-mage-js-999de7dfea745cb63fe7.js.map"
+      "component---src-pages-pr-mage-js-7f4d21cfb9b2ebb83060.js",
+      "component---src-pages-pr-mage-js-7f4d21cfb9b2ebb83060.js.map"
     ],
     "component---src-pages-projs-js": [
-      "component---src-pages-projs-js-d605bad7686f4ffa8d7e.js",
-      "component---src-pages-projs-js-d605bad7686f4ffa8d7e.js.map"
+      "component---src-pages-projs-js-a32a73866ca3eae96c75.js",
+      "component---src-pages-projs-js-a32a73866ca3eae96c75.js.map"
     ],
     "component---src-pages-gallery-js": [
       "component---src-pages-gallery-js-6d3d11a3fb83c9ec3318.js",
       "component---src-pages-gallery-js-6d3d11a3fb83c9ec3318.js.map"
+    ],
+    "component---src-pages-pr-steps-js": [
+      "component---src-pages-pr-steps-js-544b5fa9bb453f2e8e77.js",
+      "component---src-pages-pr-steps-js-544b5fa9bb453f2e8e77.js.map"
     ],
     "component---src-pages-food-js": [
       "component---src-pages-food-js-d4bf6d3377ac9e4760b0.js",
@@ -40,6 +44,10 @@
       "path---art-a0e39f21c11f6a62c5ab.js",
       "path---art-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-pr-vigor-js": [
+      "component---src-pages-pr-vigor-js-a85d3bbf00324c5bbc7b.js",
+      "component---src-pages-pr-vigor-js-a85d3bbf00324c5bbc7b.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-a4b80420dd4d06986d6f.js",
       "component---src-layouts-index-js-a4b80420dd4d06986d6f.js.map"
@@ -47,6 +55,18 @@
     "path---gallery": [
       "path---gallery-a0e39f21c11f6a62c5ab.js",
       "path---gallery-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---pr-grasp": [
+      "path---pr-grasp-a0e39f21c11f6a62c5ab.js",
+      "path---pr-grasp-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---pr-vigor": [
+      "path---pr-vigor-a0e39f21c11f6a62c5ab.js",
+      "path---pr-vigor-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---pr-visage": [
+      "path---pr-visage-a0e39f21c11f6a62c5ab.js",
+      "path---pr-visage-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -57,8 +77,8 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-66bdf8220bf7962b4c55.js",
-      "commons-66bdf8220bf7962b4c55.js.map"
+      "commons-92f9ce5d220f5a90a70e.js",
+      "commons-92f9ce5d220f5a90a70e.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -68,9 +88,13 @@
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-pr-grasp-js": [
+      "component---src-pages-pr-grasp-js-c9f2cc95cb921bb321f7.js",
+      "component---src-pages-pr-grasp-js-c9f2cc95cb921bb321f7.js.map"
+    ],
     "app": [
-      "app-4886071c3487a890b5cb.js",
-      "app-4886071c3487a890b5cb.js.map"
+      "app-9db08a7dee3dd88d7777.js",
+      "app-9db08a7dee3dd88d7777.js.map"
     ],
     "path---pr-mage": [
       "path---pr-mage-a0e39f21c11f6a62c5ab.js",
@@ -80,9 +104,17 @@
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-pr-visage-js": [
+      "component---src-pages-pr-visage-js-e3c3f08ab26b70f452ed.js",
+      "component---src-pages-pr-visage-js-e3c3f08ab26b70f452ed.js.map"
+    ],
     "component---src-pages-art-js": [
       "component---src-pages-art-js-fe4d3a4a7d18356219d6.js",
       "component---src-pages-art-js-fe4d3a4a7d18356219d6.js.map"
+    ],
+    "path---pr-steps": [
+      "path---pr-steps-a0e39f21c11f6a62c5ab.js",
+      "path---pr-steps-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }

@@ -1,0 +1,2 @@
+webpackJsonp([0x799433181657],{"./node_modules/json-loader/index.js!./.cache/json/pr-vigor.json":function(o,n){o.exports={pathContext:{}}}});
+//# sourceMappingURL=path---pr-vigor-a0e39f21c11f6a62c5ab.js.map
