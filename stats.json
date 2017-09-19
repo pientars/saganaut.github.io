@@ -5,8 +5,8 @@
       "component---src-pages-pr-mage-js-7f4d21cfb9b2ebb83060.js.map"
     ],
     "component---src-pages-projs-js": [
-      "component---src-pages-projs-js-a32a73866ca3eae96c75.js",
-      "component---src-pages-projs-js-a32a73866ca3eae96c75.js.map"
+      "component---src-pages-projs-js-264cdf6d4d6fc86e0bc6.js",
+      "component---src-pages-projs-js-264cdf6d4d6fc86e0bc6.js.map"
     ],
     "component---src-pages-gallery-js": [
       "component---src-pages-gallery-js-6d3d11a3fb83c9ec3318.js",
@@ -25,8 +25,12 @@
       "path---projs-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-7eae24f7e81f8fcb984d.js",
-      "component---src-pages-index-js-7eae24f7e81f8fcb984d.js.map"
+      "component---src-pages-index-js-cea4cf55290f5cea8ce0.js",
+      "component---src-pages-index-js-cea4cf55290f5cea8ce0.js.map"
+    ],
+    "path---pr-facets": [
+      "path---pr-facets-a0e39f21c11f6a62c5ab.js",
+      "path---pr-facets-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -88,13 +92,17 @@
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-pr-facets-js": [
+      "component---src-pages-pr-facets-js-b44527d82814b6a30b77.js",
+      "component---src-pages-pr-facets-js-b44527d82814b6a30b77.js.map"
+    ],
     "component---src-pages-pr-grasp-js": [
       "component---src-pages-pr-grasp-js-c9f2cc95cb921bb321f7.js",
       "component---src-pages-pr-grasp-js-c9f2cc95cb921bb321f7.js.map"
     ],
     "app": [
-      "app-775c1318f873c2846d01.js",
-      "app-775c1318f873c2846d01.js.map"
+      "app-975515bc80c81bdc34d1.js",
+      "app-975515bc80c81bdc34d1.js.map"
     ],
     "path---pr-mage": [
       "path---pr-mage-a0e39f21c11f6a62c5ab.js",
