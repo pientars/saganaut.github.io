@@ -4,6 +4,10 @@
       "component---src-pages-pr-mage-js-7f4d21cfb9b2ebb83060.js",
       "component---src-pages-pr-mage-js-7f4d21cfb9b2ebb83060.js.map"
     ],
+    "path---test-webgl": [
+      "path---test-webgl-a0e39f21c11f6a62c5ab.js",
+      "path---test-webgl-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-projs-js": [
       "component---src-pages-projs-js-264cdf6d4d6fc86e0bc6.js",
       "component---src-pages-projs-js-264cdf6d4d6fc86e0bc6.js.map"
@@ -25,8 +29,8 @@
       "path---projs-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-bf14972210ed1b5fc78f.js",
-      "component---src-pages-index-js-bf14972210ed1b5fc78f.js.map"
+      "component---src-pages-index-js-0a44445f688010e53c6a.js",
+      "component---src-pages-index-js-0a44445f688010e53c6a.js.map"
     ],
     "path---pr-facets": [
       "path---pr-facets-a0e39f21c11f6a62c5ab.js",
@@ -92,6 +96,10 @@
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-test-webgl-js": [
+      "component---src-pages-test-webgl-js-f6fc9e7ce05a2b0d936f.js",
+      "component---src-pages-test-webgl-js-f6fc9e7ce05a2b0d936f.js.map"
+    ],
     "component---src-pages-pr-facets-js": [
       "component---src-pages-pr-facets-js-b44527d82814b6a30b77.js",
       "component---src-pages-pr-facets-js-b44527d82814b6a30b77.js.map"
@@ -101,8 +109,8 @@
       "component---src-pages-pr-grasp-js-c9f2cc95cb921bb321f7.js.map"
     ],
     "app": [
-      "app-975515bc80c81bdc34d1.js",
-      "app-975515bc80c81bdc34d1.js.map"
+      "app-064240ffe66e9ba33cbb.js",
+      "app-064240ffe66e9ba33cbb.js.map"
     ],
     "path---pr-mage": [
       "path---pr-mage-a0e39f21c11f6a62c5ab.js",
