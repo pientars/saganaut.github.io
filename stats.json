@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-pr-mage-js": [
-      "component---src-pages-pr-mage-js-7f4d21cfb9b2ebb83060.js",
-      "component---src-pages-pr-mage-js-7f4d21cfb9b2ebb83060.js.map"
+      "component---src-pages-pr-mage-js-d466cfbf90d7d7137300.js",
+      "component---src-pages-pr-mage-js-d466cfbf90d7d7137300.js.map"
     ],
     "path---test-webgl": [
       "path---test-webgl-a0e39f21c11f6a62c5ab.js",
@@ -17,8 +17,8 @@
       "component---src-pages-gallery-js-4d5d1e022ec7594c46d6.js.map"
     ],
     "component---src-pages-pr-steps-js": [
-      "component---src-pages-pr-steps-js-544b5fa9bb453f2e8e77.js",
-      "component---src-pages-pr-steps-js-544b5fa9bb453f2e8e77.js.map"
+      "component---src-pages-pr-steps-js-fbb305e949c065faea21.js",
+      "component---src-pages-pr-steps-js-fbb305e949c065faea21.js.map"
     ],
     "component---src-pages-food-js": [
       "component---src-pages-food-js-83746f680595c344aca7.js",
@@ -29,8 +29,8 @@
       "path---projs-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-55c3a7f2178e70c9a2c2.js",
-      "component---src-pages-index-js-55c3a7f2178e70c9a2c2.js.map"
+      "component---src-pages-index-js-1b537a5fa8bba0503f71.js",
+      "component---src-pages-index-js-1b537a5fa8bba0503f71.js.map"
     ],
     "path---pr-facets": [
       "path---pr-facets-a0e39f21c11f6a62c5ab.js",
@@ -53,8 +53,8 @@
       "path---art-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-pr-vigor-js": [
-      "component---src-pages-pr-vigor-js-a85d3bbf00324c5bbc7b.js",
-      "component---src-pages-pr-vigor-js-a85d3bbf00324c5bbc7b.js.map"
+      "component---src-pages-pr-vigor-js-e8ccf28f515284249f27.js",
+      "component---src-pages-pr-vigor-js-e8ccf28f515284249f27.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-a4b80420dd4d06986d6f.js",
@@ -85,8 +85,8 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-92f9ce5d220f5a90a70e.js",
-      "commons-92f9ce5d220f5a90a70e.js.map"
+      "commons-3c3776e7b6e96acb42fa.js",
+      "commons-3c3776e7b6e96acb42fa.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -101,16 +101,16 @@
       "component---src-pages-test-webgl-js-a7fd632c241bdf71baca.js.map"
     ],
     "component---src-pages-pr-facets-js": [
-      "component---src-pages-pr-facets-js-b44527d82814b6a30b77.js",
-      "component---src-pages-pr-facets-js-b44527d82814b6a30b77.js.map"
+      "component---src-pages-pr-facets-js-a0a7ea9e7434762cf033.js",
+      "component---src-pages-pr-facets-js-a0a7ea9e7434762cf033.js.map"
     ],
     "component---src-pages-pr-grasp-js": [
-      "component---src-pages-pr-grasp-js-c9f2cc95cb921bb321f7.js",
-      "component---src-pages-pr-grasp-js-c9f2cc95cb921bb321f7.js.map"
+      "component---src-pages-pr-grasp-js-deb2e812d9016c46955a.js",
+      "component---src-pages-pr-grasp-js-deb2e812d9016c46955a.js.map"
     ],
     "app": [
-      "app-064240ffe66e9ba33cbb.js",
-      "app-064240ffe66e9ba33cbb.js.map"
+      "app-836d757d8991efc46868.js",
+      "app-836d757d8991efc46868.js.map"
     ],
     "path---pr-mage": [
       "path---pr-mage-a0e39f21c11f6a62c5ab.js",
@@ -121,8 +121,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-pr-visage-js": [
-      "component---src-pages-pr-visage-js-e3c3f08ab26b70f452ed.js",
-      "component---src-pages-pr-visage-js-e3c3f08ab26b70f452ed.js.map"
+      "component---src-pages-pr-visage-js-09176f79aa1c0c15548b.js",
+      "component---src-pages-pr-visage-js-09176f79aa1c0c15548b.js.map"
     ],
     "component---src-pages-art-js": [
       "component---src-pages-art-js-fe4d3a4a7d18356219d6.js",
